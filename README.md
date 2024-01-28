@@ -22,3 +22,21 @@ You can install these dependencies using pip:
 ```
 pip install librosa soundfile numpy sklearn pyaudio
 ```
+
+## Model Architecture 🧠💻
+In this project, we'll be using an MLPClassifier (Multi-layer Perceptron Classifier) from the sklearn library. MLPClassifier is a type of feedforward neural network that can be trained to classify data into multiple classes. We'll extract features from audio samples using librosa, preprocess the data, and then train the MLPClassifier to recognize emotions from speech.  
+
+## Getting Started 🚀🔍
+• **Clone the Repository**: Clone this GitHub repository to your local machine.
+
+• **Install Dependencies**: Install the required Python libraries using pip as mentioned above.
+
+• **Navigate to the Project Directory:** Open a command prompt or terminal and navigate to the project directory.
+
+• **Run the Jupyter Notebook**: Launch JupyterLab by running the command:
+```
+jupyter lab
+```
+This will open a new session in your browser.
+
+• **Execute Code Cells**: Open the Jupyter Notebook file and execute the code cells sequentially to run the project.
