@@ -17,3 +17,8 @@ To run this project, you'll need to install the following Python libraries:
 • numpy  
 • sklearn  
 • pyaudio  
+You can install these dependencies using pip:
+
+```
+pip install librosa soundfile numpy sklearn pyaudio
+```
